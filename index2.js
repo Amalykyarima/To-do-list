@@ -3,11 +3,7 @@ const myText = document.querySelector('.my-text');
 const todobtn = document.querySelector('.todo-btn');
 const todoList = document.querySelector('.todo-list');
 const todoInput = document.querySelector('.todo-input');
-// let template = `<label class="addTodo">
-//                             <input type="checkbox" checked="checked">
-//                             <span class="checkmark"></span>
-//                             <i class="fa fa-trash-o"></i>
-//                 </label>`
+
 
 
 //EVENTLISTENERS

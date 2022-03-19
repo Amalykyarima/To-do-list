@@ -13,8 +13,7 @@
  .complete-btn {
     border: none; 
     background-color: white; 
-    padding: 0.2rem;
-    
+    padding: 0.2rem; 
 }
 
 .fa-check-square, .fa-trash-o {
